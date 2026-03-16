@@ -1,7 +1,7 @@
 # Quantum-Federated-Aggregation-Advances-and-Open-Problems- # Quantum Federated Learning (QFL) Review Repository
 Curated repository of recent Quantum Federated Learning (QFL) aggregation strategies with direct links to papers/resources. Includes a comprehensive taxonomy across performance, security, and communication perspectives to support comparison and propose the novel design of more effective aggregation method.
 
-![image](https://github.com/shanikairoshi/Quantum-Federated-Aggregation-Advances-and-Open-Problems/tree/main/Figures/QFLReviewTimeLine_final.png)
+![image](https://github.com/shanikairoshi/Quantum-Federated-Aggregation-Advances-and-Open-Problems/blob/main/Figures/QFLReviewTimeLine_final.png)
 
 This repository organizes key references for a **Quantum Federated Learning (QFL)** review, with emphasis on the three working buckets used in the review:
 
